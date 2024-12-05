@@ -81,13 +81,9 @@
 
 ## 🎮 **Fun Facts About Me**
 
-<div align="center">
-  <img src="https://i.gifer.com/g1OF.gif" width="400" />
-</div>
-
 - 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
-- 🍣 Passionate foodie – always on the hunt for amazing ramen.  
+- 🍣 Passionate foodie.  
 
 ---
 
