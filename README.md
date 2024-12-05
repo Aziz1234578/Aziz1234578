@@ -85,7 +85,7 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" />
 </div>
 
-- 🔥 Avid gamer with a love for **open-world adventures**.  
+- 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
 - 🍣 Passionate foodie – always on the hunt for amazing ramen.  
 
