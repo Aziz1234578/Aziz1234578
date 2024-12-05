@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t3ZzdvY2U3ZWJ0ejM5Y29kOWZxeG9ocmpyMWptMWswMnJvdWVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="auto" />
-</div>
+
 
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
 <p align="center">
