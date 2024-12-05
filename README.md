@@ -82,7 +82,7 @@
 ## 🎮 **Fun Facts About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" />
+  <img src="https://i.gifer.com/g1OF.gif" width="400" />
 </div>
 
 - 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
