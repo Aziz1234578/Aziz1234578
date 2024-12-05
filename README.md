@@ -92,10 +92,11 @@
   <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+  
 <div align="center">
-    <div align="center">
   <img src="https://media.giphy.com/media/rlcKQdvA7g2Xi0KjDi/giphy.gif" width="100%" />
 </div>
+
 
 
 </div>
