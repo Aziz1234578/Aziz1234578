@@ -28,13 +28,10 @@
 
 <div align="center">
   <h3> Databases & Tools</h3>
-  
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,linux,git&theme=light" />
 </div>
-
 <div align="center">
   <h3> Networking & System Administration</h3>
-  
   <img src="https://skillicons.dev/icons?i=windows,linux,docker&theme=light" />
 </div>
 
