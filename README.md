@@ -62,7 +62,7 @@
 ## 🎮 **Fun Facts About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
 </div>
 
 - 🔥 Avid gamer with a love for **open-world adventures**.  
