@@ -1,6 +1,12 @@
+<!-- BANNIÈRE PERSONNALISÉE -->
+<div align="center">
+  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif" alt="Abdoul Aziz Gueye Banner" width="100%" />
+</div>
 
-
-<h1 align="center" style="font-size: 4rem; color: #FFD700; text-shadow: 2px 2px #6C63FF;">🚀 Abdoul Aziz Gueye</h1>
+<!-- TITRE PRINCIPAL -->
+<h1 align="center" style="font-size: 4rem; color: #FFD700; text-shadow: 2px 2px #6C63FF;">
+  🚀 Abdoul Aziz Gueye
+</h1>
 <p align="center" style="font-size: 1.8rem; color: #6C63FF;">
   <b>Full Stack Developer | AI Enthusiast | Big Data Explorer</b>
 </p>
@@ -11,22 +17,23 @@
 
 ---
 
-## ✨ **About Me**
+<!-- SECTION ABOUT ME -->
+## ✨ About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </div>
 
-- 🌟 **Master in Artificial Intelligence & Big Data**  
-  at **Ecole Supérieure Polytechnique de Dakar**.  
+- 🌟 **Master in Artificial Intelligence & Big Data** at **Ecole Supérieure Polytechnique de Dakar**.  
 - 🧠 Experienced in **Full Stack Development** and passionate about **building intelligent systems**.  
 - 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.  
 - 🌍 Living in **Dakar, Senegal**, solving real-world challenges through technology.  
-- 🥋 Black belt in Taekwondo with 10+ years of discipline.  
+- 🥋 Black belt in Taekwondo with 10+ years of discipline.
 
 ---
 
-## 💻 **Skills & Tools**
+<!-- SKILLS & TOOLS -->
+## 💻 Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,flutter,postgres,git,linux,docker&theme=light" />
@@ -38,7 +45,8 @@
 
 ---
 
-## 📈 **GitHub Insights**
+<!-- GITHUB STATS -->
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=highcontrast" width="48%" />
@@ -47,7 +55,8 @@
 
 ---
 
-## 🏆 **Professional Experience**
+<!-- PROFESSIONAL EXPERIENCE -->
+## 🏆 Professional Experience
 
 **🔍 AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
 - 📌 Built an **NLP-based tool** to analyze software feedback.  
@@ -60,7 +69,8 @@
 
 ---
 
-## 🎮 **Fun Facts About Me**
+<!-- FUN FACTS -->
+## 🎮 Fun Facts About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200px" />
@@ -68,19 +78,21 @@
 
 - 🔥 Avid gamer with a love for **open-world adventures**.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
-- 🍣 Passionate foodie – always on the hunt for amazing ramen.  
+- 🍣 Passionate foodie – always on the hunt for amazing ramen.
 
 ---
 
-## ✨ **Quote I Live By**
+<!-- QUOTE -->
+## ✨ Quote I Live By
 
 <div align="center">
-  <img src="https://readme-quote-generator.vercel.app/api/quote?theme=dark&quote="The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
 </div>
 
 ---
 
-## 📫 **Let’s Connect!**
+<!-- CONTACT ME -->
+## 📫 Let’s Connect!
 
 <p align="center">
   <a href="mailto:aziznjr420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
