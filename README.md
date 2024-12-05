@@ -33,7 +33,7 @@
 </p>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/trippy-clifford-torus-3j1cQ31u1AQKqG1tU6" width="150px" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150px" />
 </div>
 
 ---
