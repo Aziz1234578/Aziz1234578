@@ -44,5 +44,5 @@
 
 ## 📫 Contact Me
 - 📧 Email: [aziznjr420@gmail.com](mailto:aziznjr420@gmail.com)
-- 🌐 LinkedIn: [Abdoul Aziz Gueye](https://linkedin.com/in/your-profile)
+- 🌐 LinkedIn: [Abdoul Aziz Gueye](https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/)
 - 📍 Location: Dakar, Senegal
