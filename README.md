@@ -71,11 +71,17 @@
 
 ---
 
-## ✨ **Quote I Live By**
+## ✨ Quote I Live By
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Nmb2t1amNmbmk2MHl0dTNjenluOGJ4NmViY25yM2M2cnU3aWxxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTMRcvdM6FP6WHbl7U/giphy-downsized-large.gif"The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
+<div align="center" style="background: linear-gradient(135deg, #6C63FF, #FFD700); padding: 20px; border-radius: 15px;">
+  <h2 style="color: white; font-family: 'Arial', sans-serif; font-style: italic; font-weight: bold;">
+    "The best way to predict the future is to create it."
+  </h2>
+  <p style="color: #ffffff; font-family: 'Courier New', monospace; font-size: 1.2rem;">
+    – Peter Drucker
+  </p>
 </div>
+
 
 ---
 
