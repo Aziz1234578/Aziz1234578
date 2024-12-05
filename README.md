@@ -98,14 +98,15 @@
 
 ## ✨ **Quote I Live By**
 
-<div align="center" style="background: linear-gradient(135deg, #6C63FF, #FFD700); padding: 20px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(135deg, #1E90FF, #FFD700); padding: 20px; border-radius: 15px;">
   <h2 style="color: white; font-family: 'Arial', sans-serif; font-style: italic; font-weight: bold;">
-    "The best way to predict the future is to create it."
+    "Le futur appartient à ceux qui ont la mémoire longue."
   </h2>
   <p style="color: #ffffff; font-family: 'Courier New', monospace; font-size: 1.2rem;">
-    – Peter Drucker
+    – Cheikh Anta Diop
   </p>
 </div>
+
 
 ---
 
