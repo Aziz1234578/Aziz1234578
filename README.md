@@ -76,10 +76,6 @@
 - 📌  Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints within an **Enterprise Resource Planning (ERP)** system.
 - 🌐 [Visit CRE Website](https://cre-esp.net/)
 
-**🖥 IT Technician Intern** | *Signal Expert Sénégal*  
-- 🔧 Managed hardware maintenance and provided **technical support**.  
-- 🌐 Gained expertise in **network administration**.
-
 ---
 
 ## 🎮 **Fun Facts About Me**
