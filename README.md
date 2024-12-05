@@ -78,7 +78,6 @@
 
 - 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
-- 🍣 Passionate foodie.  
 
 ---
 
