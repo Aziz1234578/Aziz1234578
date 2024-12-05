@@ -2,14 +2,12 @@
   <img src="https://raw.githubusercontent.com/Aziz1234578/Aziz1234578/main/ZdPP.gif" width="100%" />
 </div>
 
+</p>
+
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
 <p align="center">
   <b>Full Stack Developer | AI Enthusiast | Big Data Student</b>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200px" />
-</div>
 
 ---
 
