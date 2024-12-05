@@ -21,33 +21,32 @@
 
 ## 💻 **Skills & Tools**
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  
-  <!-- Langages de programmation -->
-  <h3 style="color: #6C63FF;">🌐 Programming Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,c" alt="Languages" />
-  </p>
-
-  <!-- Frameworks -->
-  <h3 style="color: #6C63FF;">🚀 Frameworks & Libraries</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,flutter" alt="Frameworks" />
-  </p>
-
-  <!-- Bases de données -->
-  <h3 style="color: #6C63FF;">🗄️ Databases</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Databases" />
-  </p>
-
-  <!-- Outils et systèmes -->
-  <h3 style="color: #6C63FF;">⚙️ Tools & Systems</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,linux,docker" alt="Tools" />
-  </p>
-
-</div>
+<table align="center">
+  <tr>
+    <th>🌐 Programming Languages</th>
+    <th>🚀 Frameworks & Libraries</th>
+    <th>🗄️ Databases</th>
+    <th>⚙️ Tools & Systems</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,c" alt="Languages" />
+      <p>Java, Python, PHP, JavaScript, HTML, CSS, C</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular,react,nodejs,flutter" alt="Frameworks" />
+      <p>Angular, React, Node.js, Flutter</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Databases" />
+      <p>PostgreSQL, MongoDB, Firebase</p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,linux,docker" alt="Tools" />
+      <p>Git, Linux, Docker</p>
+    </td>
+  </tr>
+</table>
 
 
 
