@@ -22,16 +22,34 @@
 
 ## 💻 **Skills & Tools**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,angular,react,nodejs,flutter&theme=light" />
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  
+  <!-- Langages de programmation -->
+  <h3 style="color: #6C63FF;">🌐 Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" alt="Languages" />
+  </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,linux,git&theme=light" />
+  <!-- Frameworks -->
+  <h3 style="color: #6C63FF;">🚀 Frameworks & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,flutter" alt="Frameworks" />
+  </p>
+
+  <!-- Bases de données -->
+  <h3 style="color: #6C63FF;">🗄️ Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Databases" />
+  </p>
+
+  <!-- Outils et systèmes -->
+  <h3 style="color: #6C63FF;">⚙️ Tools & Systems</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,linux,docker" alt="Tools" />
+  </p>
+
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,docker&theme=light" />
-</div>
+
 
 
 <div align="center">
