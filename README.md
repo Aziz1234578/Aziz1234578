@@ -46,11 +46,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" alt="GitHub Streak" />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aziz1234578&theme=redical)
+## 🌐 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aziz1234578&theme=redical" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
