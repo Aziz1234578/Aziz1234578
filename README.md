@@ -74,7 +74,7 @@
 ## ✨ **Quote I Live By**
 
 <div align="center">
-  <img src="https://readme-quote-generator.vercel.app/api/quote?theme=dark&quote="The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Nmb2t1amNmbmk2MHl0dTNjenluOGJ4NmViY25yM2M2cnU3aWxxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTMRcvdM6FP6WHbl7U/giphy-downsized-large.gif"The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
 </div>
 
 ---
