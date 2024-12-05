@@ -11,9 +11,7 @@
 
 - 🌟 **Master Student in Artificial Intelligence & Big Data**.  
 - 🧠 Experienced in **Full Stack Development** and passionate about **building intelligent systems**.  
-- 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.  
-- 🌍 Living in **Dakar, Senegal**, solving real-world challenges through technology.  
-- 🥋 Black belt in Taekwondo with 10+ years of discipline.  
+- 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.    
 
 ---
 
