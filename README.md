@@ -1,69 +1,94 @@
-<p align="center">
-  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif?raw=true" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aziz1234578/Aziz1234578/main/ZdPP.gif" width="100%" />
+</div>
+
+<h1 align="center" style="font-size: 4rem; color: #FFD700; text-shadow: 2px 2px #6C63FF;">🚀 Abdoul Aziz Gueye</h1>
+<p align="center" style="font-size: 1.8rem; color: #6C63FF;">
+  <b>Full Stack Developer | AI Enthusiast | Big Data Explorer</b>
 </p>
 
-<h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200px" />
+</div>
+
+---
+
+## ✨ **About Me**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+</div>
+
+- 🌟 **Master in Artificial Intelligence & Big Data**  
+  at **Ecole Supérieure Polytechnique de Dakar**.  
+- 🧠 Experienced in **Full Stack Development** and passionate about **building intelligent systems**.  
+- 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.  
+- 🌍 Living in **Dakar, Senegal**, solving real-world challenges through technology.  
+- 🥋 Black belt in Taekwondo with 10+ years of discipline.  
+
+---
+
+## 💻 **Skills & Tools**
+
 <p align="center">
-  <b>Full Stack Developer | AI Enthusiast | Big Data Student</b>
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,flutter,postgres,git,linux,docker&theme=light" />
 </p>
 
----
-
-## 🌟 About Me
-- 🎓 I’m currently pursuing a **Master in Artificial Intelligence and Big Data** at **Ecole Supérieure Polytechnique de Dakar**.
-- 💻 I have a **Bachelor’s degree in Software Engineering** with strong experience in **Full Stack Development**.
-- 🤖 Passionate about **Natural Language Processing (NLP)** and building intelligent, data-driven applications.
-- 🌍 Based in **Dakar, Senegal**, I enjoy solving real-world problems with technology.
-- ⚽ Outside of tech, I love playing football and practicing Taekwondo (10+ years of discipline).
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150px" />
+</div>
 
 ---
 
-## 🛠 Technologies & Tools
+## 📈 **GitHub Insights**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🏢 Professional Experience
-- **AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
-  - Designed a **Natural Language Processing (NLP)** tool in Python to detect themes in integrated management software complaints.  
-  - Collaborated on AI-based solutions to enhance educational platforms.  
-  - [Visit CRE Website](https://cre-esp.net/)
-
-- **IT Technician Intern** | *Signal Expert Sénégal*  
-  - Provided technical support and managed equipment maintenance.  
-  - Gained hands-on experience in **network administration** and troubleshooting.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=highcontrast" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=highcontrast" width="48%" />
 </p>
 
 ---
 
-## 🌟 Fun Facts About Me
-- 🎮 I love gaming and I’m a fan of open-world games.
-- 🌱 Currently learning **Machine Learning with TensorFlow**.
-- 🍜 Foodie at heart. I’m always on the hunt for the best ramen in town!
+## 🏆 **Professional Experience**
+
+**🔍 AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
+- 📌 Built an **NLP-based tool** to analyze software feedback.  
+- 🛠 Collaborated on AI projects for **educational platforms**.  
+- 🌐 [Visit CRE Website](https://cre-esp.net/)
+
+**🖥 IT Technician Intern** | *Signal Expert Sénégal*  
+- 🔧 Managed hardware maintenance and provided **technical support**.  
+- 🌐 Gained expertise in **network administration**.
 
 ---
 
-## 🌟 Quote I live by
-> "The best way to predict the future is to create it." – Peter Drucker
+## 🎮 **Fun Facts About Me**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200px" />
+</div>
+
+- 🔥 Avid gamer with a love for **open-world adventures**.  
+- 🌱 Currently mastering **Machine Learning with TensorFlow**.  
+- 🍣 Passionate foodie – always on the hunt for amazing ramen.  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: [aziznjr420@gmail.com](mailto:aziznjr420@gmail.com)
-- 🌐 LinkedIn: [Abdoul Aziz Gueye](https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/)
+## ✨ **Quote I Live By**
+
+<div align="center">
+  <img src="https://readme-quote-generator.vercel.app/api/quote?theme=dark&quote="The best way to predict the future is to create it."&author=Peter Drucker" width="80%" />
+</div>
+
+---
+
+## 📫 **Let’s Connect!**
+
+<p align="center">
+  <a href="mailto:aziznjr420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="150px" />
+</div>
