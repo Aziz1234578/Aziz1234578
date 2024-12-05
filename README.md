@@ -11,8 +11,7 @@
 
 ## ✨ **About Me**
 
-- 🌟 **Master in Artificial Intelligence & Big Data**  
-  at **Ecole Supérieure Polytechnique de Dakar**.  
+- 🌟 **Master in Artificial Intelligence & Big Data** at **Ecole Supérieure Polytechnique de Dakar**.  
 - 🧠 Experienced in **Full Stack Development** and passionate about **building intelligent systems**.  
 - 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.  
 - 🌍 Living in **Dakar, Senegal**, solving real-world challenges through technology.  
