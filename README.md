@@ -23,8 +23,19 @@
 ## 💻 **Skills & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,flutter,postgres,git,linux,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,angular,react,nodejs,flutter&theme=light" />
 </p>
+
+<div align="center">
+  <h3>📊 Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,linux,git&theme=light" />
+</div>
+
+<div align="center">
+  <h3>⚙️ Networking & System Administration</h3>
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker&theme=light" />
+</div>
+
 
 <div align="center">
   <img src="https://i.gifer.com/5GJg.gif" width="400px" />
