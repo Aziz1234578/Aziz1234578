@@ -73,7 +73,8 @@
 ## 🏆 **Professional Experience**
 
 **🔍 AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
-- 📌  Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints within an **Enterprise Resource Planning (ERP)** system.
+- 📌 Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints related to the **Enterprise Resource Planning (ERP)** system used by the **Ecole Supérieure Polytechnique (ESP)**.  
+
 - 🌐 [Visit CRE Website](https://cre-esp.net/)
 
 ---
