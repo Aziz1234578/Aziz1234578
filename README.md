@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.gifer.com/5GJg.gif" width="150px" />
+  <img src="https://i.gifer.com/5GJg.gif" width="400px" />
 </div>
 
 ---
