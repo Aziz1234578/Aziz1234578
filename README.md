@@ -14,7 +14,7 @@
 ## ✨ **About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRpeTJocWRrbzM4YmY0MGtpbmlhbGt0ZGc0d21oNG5mZm96dWd3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bc9YL28QWi3pYzi1p/giphy.gif" width="500px" />
 </div>
 
 - 🌟 **Master in Artificial Intelligence & Big Data**  
