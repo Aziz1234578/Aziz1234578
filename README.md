@@ -1,9 +1,6 @@
 <div align="center">
-<img   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t3ZzdvY2U3ZWJ0ejM5Y29kOWZxeG9ocmpyMWptMWswMnJvdWVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="auto" />
-
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t3ZzdvY2U3ZWJ0ejM5Y29kOWZxeG9ocmpyMWptMWswMnJvdWVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="auto" />
 </div>
-
-</p>
 
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
 <p align="center">
@@ -13,8 +10,6 @@
 ---
 
 ## ✨ **About Me**
-
-
 
 - 🌟 **Master in Artificial Intelligence & Big Data**  
   at **Ecole Supérieure Polytechnique de Dakar**.  
@@ -71,7 +66,7 @@
 
 ---
 
-## ✨ Quote I Live By
+## ✨ **Quote I Live By**
 
 <div align="center" style="background: linear-gradient(135deg, #6C63FF, #FFD700); padding: 20px; border-radius: 15px;">
   <h2 style="color: white; font-family: 'Arial', sans-serif; font-style: italic; font-weight: bold;">
@@ -82,7 +77,6 @@
   </p>
 </div>
 
-
 ---
 
 ## 📫 **Let’s Connect!**
@@ -92,11 +86,6 @@
   <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-  
 <div align="center">
   <img src="https://media.giphy.com/media/rlcKQdvA7g2Xi0KjDi/giphy.gif" width="100%" />
-</div>
-
-
-
 </div>
