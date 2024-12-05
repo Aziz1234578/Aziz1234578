@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif?raw=true" width="80%">
+  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif?raw=true" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
@@ -7,12 +7,16 @@
   <b>Full Stack Developer | AI Enthusiast | Big Data Student</b>
 </p>
 
-##  About Me
+---
+
+## 🌟 About Me
 - 🎓 I’m currently pursuing a **Master in Artificial Intelligence and Big Data** at **Ecole Supérieure Polytechnique de Dakar**.
 - 💻 I have a **Bachelor’s degree in Software Engineering** with strong experience in **Full Stack Development**.
 - 🤖 Passionate about **Natural Language Processing (NLP)** and building intelligent, data-driven applications.
 - 🌍 Based in **Dakar, Senegal**, I enjoy solving real-world problems with technology.
 - ⚽ Outside of tech, I love playing football and practicing Taekwondo (10+ years of discipline).
+
+---
 
 ## 🛠 Technologies & Tools
 <p align="center">
@@ -26,6 +30,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
 ## 🏢 Professional Experience
 - **AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
   - Designed a **Natural Language Processing (NLP)** tool in Python to detect themes in integrated management software complaints.  
@@ -36,11 +42,29 @@
   - Provided technical support and managed equipment maintenance.  
   - Gained hands-on experience in **network administration** and troubleshooting.
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" alt="GitHub Streak"/>
 </p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aziz1234578&theme=redical)
+
+---
+
+## 🌟 Fun Facts About Me
+- 🎮 I love gaming and I’m a fan of open-world games.
+- 🌱 Currently learning **Machine Learning with TensorFlow**.
+- 🍜 Foodie at heart. I’m always on the hunt for the best ramen in town!
+
+---
+
+## 🌟 Quote I live by
+> "The best way to predict the future is to create it." – Peter Drucker
+
+---
 
 ## 📫 Contact Me
 - 📧 Email: [aziznjr420@gmail.com](mailto:aziznjr420@gmail.com)
