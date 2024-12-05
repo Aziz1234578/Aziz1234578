@@ -7,14 +7,14 @@
   <b>Full Stack Developer | AI Enthusiast | Big Data Student</b>
 </p>
 
-## 🚀 About Me
+##  About Me
 - 🎓 I’m currently pursuing a **Master in Artificial Intelligence and Big Data** at **Ecole Supérieure Polytechnique de Dakar**.
 - 💻 I have a **Bachelor’s degree in Software Engineering** with strong experience in **Full Stack Development**.
 - 🤖 Passionate about **Natural Language Processing (NLP)** and building intelligent, data-driven applications.
 - 🌍 Based in **Dakar, Senegal**, I enjoy solving real-world problems with technology.
 - ⚽ Outside of tech, I love playing football and practicing Taekwondo (10+ years of discipline).
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
