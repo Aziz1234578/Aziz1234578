@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif?raw=true" width="50%">
+  <img src="https://github.com/Aziz1234578/Aziz1234578/blob/main/ZdPP.gif?raw=true" width="80%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
