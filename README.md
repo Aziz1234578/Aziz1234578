@@ -27,7 +27,7 @@
   <!-- Langages de programmation -->
   <h3 style="color: #6C63FF;">🌐 Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,c" alt="Languages" />
   </p>
 
   <!-- Frameworks -->
@@ -49,6 +49,7 @@
   </p>
 
 </div>
+
 
 
 
