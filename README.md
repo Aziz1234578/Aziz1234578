@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aziz1234578/Aziz1234578/main/ZdPP.gif" width="100%" />
-</div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t3ZzdvY2U3ZWJ0ejM5Y29kOWZxeG9ocmpyMWptMWswMnJvdWVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="500px" /></div>
 
 </p>
 
