@@ -73,8 +73,7 @@
 ## 🏆 **Professional Experience**
 
 **🔍 AI Developer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
-- 📌 Built an **NLP-based tool** to analyze software feedback.  
-- 🛠 Collaborated on AI projects for **educational platforms**.  
+- 📌  Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints within an **Enterprise Resource Planning (ERP)** system.
 - 🌐 [Visit CRE Website](https://cre-esp.net/)
 
 **🖥 IT Technician Intern** | *Signal Expert Sénégal*  
