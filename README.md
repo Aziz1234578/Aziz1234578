@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Aziz1234578/Aziz1234578/main/ZdPP.gif" width="100%" />
 </div>
 
-<h1 align="center" style="font-size: 4rem; color: #FFD700; text-shadow: 2px 2px #6C63FF;">🚀 Abdoul Aziz Gueye</h1>
-<p align="center" style="font-size: 1.8rem; color: #6C63FF;">
-  <b>Full Stack Developer | AI Enthusiast | Big Data Explorer</b>
+<h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
+<p align="center">
+  <b>Full Stack Developer | AI Enthusiast | Big Data Student</b>
 </p>
 
 <div align="center">
