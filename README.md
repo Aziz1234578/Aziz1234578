@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" width="60%" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=default" width="60%" />
 </p>
 
 
