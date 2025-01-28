@@ -26,16 +26,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,c" alt="Languages" />
-      <p>Java, Python, PHP, JavaScript, HTML, CSS, C</p>
+      <img src="https://skillicons.dev/icons?i=java,python,php,js,c" alt="Languages" />
+      <p>Java, Python, PHP, JavaScript, C</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular,react,nodejs,flutter" alt="Frameworks" />
-      <p>Angular, React, Node.js, Flutter</p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" alt="Frameworks" />
+      <p>React, Node.js, Flutter</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="Databases" />
-      <p>PostgreSQL, MongoDB, Firebase</p>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Databases" />
+      <p>MongoDB, Firebase</p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,linux,docker" alt="Tools" />
