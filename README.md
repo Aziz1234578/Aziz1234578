@@ -26,8 +26,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Languages" />
-      <p>Java, Python, JavaScript, C</p>
+      <img src="https://skillicons.dev/icons?i=java,python,js" alt="Languages" />
+      <p>Java, Python, JavaScript</p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" alt="Frameworks" />
