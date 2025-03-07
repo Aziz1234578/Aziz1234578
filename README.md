@@ -11,7 +11,6 @@
 
 - 🌟 **Master Student in Artificial Intelligence & Big Data**.  
 - 🧠 Experienced in **Full Stack Development** and passionate about **building intelligent systems**.  
-- 🤖 Specializes in **Natural Language Processing (NLP)** and **Big Data Analytics**.    
 
 ---
 
