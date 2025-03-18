@@ -83,17 +83,21 @@
 ## 🎓 **Certifications**
 
 <p align="center">
-  <a href="https://www.coursera.org/professional-certificates/google-it-support">
-    <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Certificate" />
+  <!-- Google IT Support -->
+  <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IT_Support_Certificate_logo.png" width="120" height="auto" alt="Google IT Support Certificate"/>
   </a>
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
-    <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Certificate" />
+  <!-- IBM Data Science -->
+  <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IBM_logo_2011.svg" width="120" height="auto" alt="IBM Data Science Certificate"/>
   </a>
-  <a href="https://www.coursera.org/specializations/machine-learning-stanford">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization%20-%23FFCC00?style=for-the-badge&logo=coursera&logoColor=black" alt="Machine Learning Specialization" />
+  <!-- Stanford Machine Learning -->
+  <a href="https://www.coursera.org/specializations/machine-learning-stanford" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Stanford_University_logo_%282016%29.svg" width="120" height="auto" alt="Machine Learning Specialization"/>
   </a>
-  <a href="https://www.coursera.org/learn/data-science-foundations">
-    <img src="https://img.shields.io/badge/Data%20Science%20Foundations%20-%230070D6?style=for-the-badge&logo=coursera&logoColor=white" alt="Data Science Foundations Certificate" />
+  <!-- Data Science Foundations -->
+  <a href="https://www.coursera.org/learn/data-science-foundations" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/University_of_London_logo.svg" width="120" height="auto" alt="Data Science Foundations Certificate"/>
   </a>
 </p>
 
@@ -102,7 +106,6 @@
 ## 🤖 **Fun Facts About Me**
 - 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
-- 🎵 Passionate about **lo-fi beats and synthwave music** while coding.  
 
 ---
 
