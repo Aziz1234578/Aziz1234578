@@ -80,31 +80,6 @@
 
 ---
 
-## 🎓 **Certifications**
-
-<p align="center">
-  <!-- Google IT Support -->
-  <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
-    <img src="Google_Logo.svg" width="150" height="auto" alt="Google IT Support Certificate" style="margin: 0 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-  </a>
-  <!-- IBM Data Science -->
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">
-    <img src="Ibm_logo.svg" width="150" height="auto" alt="IBM Data Science Certificate" style="margin: 0 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-  </a>
-  <!-- Stanford Machine Learning -->
-  <a href="https://www.coursera.org/specializations/machine-learning-stanford" target="_blank">
-    <img src="Stanford_University_logo.svg" width="150" height="auto" alt="Machine Learning Specialization" style="margin: 0 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-  </a>
-  <!-- Data Science Foundations -->
-  <a href="https://www.coursera.org/learn/data-science-foundations" target="_blank">
-    <img src="University_of_London.svg" width="150" height="auto" alt="Data Science Foundations Certificate" style="margin: 0 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-  </a>
-</p>
-
-
-
----
-
 ## 🤖 **Fun Facts About Me**
 - 🔥 Avid gamer with a love for **battle royale games** like PUBG.  
 - 🌱 Currently mastering **Machine Learning with TensorFlow**.  
