@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
 <p align="center">
-  <b>Software Engineer | AI Enthusiast | Big Data Student</b>
+  <b>Software Engineer | ML Engineer | Data Scientist</b>
 </p>
 
 ---
