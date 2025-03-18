@@ -109,10 +109,23 @@
 
 ---
 
-## ⚡ **Quote I Live By**
-```bash
-  ⣿⡟⠁⠀⠀⠀⠈⠻⣷⠀⠀⠀⠀⠀⠀⠀
-  ⣿⡇⠀⠀⠀  "Le futur appartient à ⠀
-  ⣿⡇⠀⠀⠀    ceux qui ont la mémoire longue."
-  ⣿⣷⠀⠀⠀⠀⠀⠀⣿⡆⠀⠀⠀⠀⠀⠀
-       – Cheikh Anta Diop
+## ✨ **Quote I Live By**
+
+<div align="center" style="background: linear-gradient(135deg, #1E90FF, #FFD700); padding: 20px; border-radius: 15px;">
+  <h2 style="color: white; font-family: 'Arial', sans-serif; font-style: italic; font-weight: bold;">
+    "Le futur appartient à ceux qui ont la mémoire longue."
+  </h2>
+  <p style="color: #ffffff; font-family: 'Courier New', monospace; font-size: 1.2rem;">
+    – Cheikh Anta Diop
+  </p>
+</div>
+
+---
+
+## 📫 **Let’s Connect!**
+
+<p align="center">
+  <a href="mailto:aziznjr420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
