@@ -85,21 +85,22 @@
 <p align="center">
   <!-- Google IT Support -->
   <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IT_Support_Certificate_logo.png" width="120" height="auto" alt="Google IT Support Certificate"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_IT_Support_Certificate_logo.png" width="200" height="auto" alt="Google IT Support Certificate"/>
   </a>
   <!-- IBM Data Science -->
   <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IBM_logo_2011.svg" width="120" height="auto" alt="IBM Data Science Certificate"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/IBM_logo_2011.svg" width="200" height="auto" alt="IBM Data Science Certificate"/>
   </a>
   <!-- Stanford Machine Learning -->
   <a href="https://www.coursera.org/specializations/machine-learning-stanford" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Stanford_University_logo_%282016%29.svg" width="120" height="auto" alt="Machine Learning Specialization"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Stanford_University_logo_%282016%29.svg" width="200" height="auto" alt="Machine Learning Specialization"/>
   </a>
   <!-- Data Science Foundations -->
   <a href="https://www.coursera.org/learn/data-science-foundations" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/University_of_London_logo.svg" width="120" height="auto" alt="Data Science Foundations Certificate"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/University_of_London_logo.svg" width="200" height="auto" alt="Data Science Foundations Certificate"/>
   </a>
 </p>
+
 
 ---
 
