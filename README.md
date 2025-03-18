@@ -72,8 +72,8 @@
 ## 🚀 **Latest Projects**
 | Project | Description |
 |---------|------------|
-| [![Project 1]() | Built an AI-powered chatbot for automating customer service using NLP & Django. |
-| [![Project 2]() | Created an automated database exercise evaluation system with Django & React. |
+| ![Project 1](https://img.shields.io/badge/AI%20Chatbot-%231E90FF.svg?&style=for-the-badge&logo=ai&logoColor=white) | Built an AI-powered chatbot for automating customer service using NLP & Django. |
+| ![Project 2](https://img.shields.io/badge/Database%20Assessment-%23FFD700.svg?&style=for-the-badge&logo=database&logoColor=black) | Created an automated database exercise evaluation system with Django & React. |
 
 ---
 
