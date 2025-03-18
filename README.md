@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 Hi, I'm Abdoul Aziz Gueye!</h1>
 <p align="center">
   <b>Software Engineer | ML Engineer | Data Scientist</b>
@@ -29,8 +27,8 @@
       <p>Java, Python, JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" alt="Frameworks" />
-      <p>React, Node.js, Flutter</p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,django" alt="Frameworks" />
+      <p>React, Node.js, Django</p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Databases" />
@@ -43,22 +41,15 @@
   </tr>
 </table>
 
-
-
-
-
-
 ---
 
 ## 📈 **GitHub Insights**
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aziz1234578&show_icons=true&theme=radical" width="60%" />
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" width="60%" />
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz1234578&theme=radical" width="60%" />
+</p>
 
 ---
 
@@ -89,7 +80,6 @@
   </p>
 </div>
 
-
 ---
 
 ## 📫 **Let’s Connect!**
@@ -98,5 +88,3 @@
   <a href="mailto:aziznjr420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-a64ba3335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-
