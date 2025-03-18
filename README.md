@@ -62,10 +62,8 @@
 
 ## 🏆 **Professional Experience**
 
-**🔍 Machine Learning Engineer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
-- 📌 Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints related to the **Enterprise Resource Planning (ERP)** system used by the **Ecole Supérieure Polytechnique (ESP)**.  
-
-- 🌐 [Visit CRE Website](https://cre-esp.net/)
+**🔍 Software Engineer Intern** | *Huawei Enterprise Northern Africa*  
+- 📌 Currently interning at **Huawei**, gaining hands-on experience in **Mobile Money solutions** architecture, implementation, and testing. Working on a project to migrate Orange's Mobile Money system to Huawei's **HMM solution**, involving **Huawei’s GaussDB database**, **cloud infrastructure**, and **network elements**.  
 
 ---
 
@@ -74,6 +72,25 @@
 |---------|------------|
 | ![Project 1](https://img.shields.io/badge/AI%20Chatbot-%231E90FF.svg?&style=for-the-badge&logo=ai&logoColor=white) | Built an AI-powered chatbot for automating customer service using NLP & Django. |
 | ![Project 2](https://img.shields.io/badge/Database%20Assessment-%23FFD700.svg?&style=for-the-badge&logo=database&logoColor=black) | Created an automated database exercise evaluation system with Django & React. |
+
+---
+
+## 🎓 **Certifications**
+
+<p align="center">
+  <a href="https://www.coursera.org/professional-certificates/google-it-support">
+    <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Certificate" />
+  </a>
+  <a href="https://www.coursera.org/professional-certificates/ibm-data-science">
+    <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Certificate" />
+  </a>
+  <a href="https://www.coursera.org/specializations/machine-learning-stanford">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization%20-%23FFCC00?style=for-the-badge&logo=coursera&logoColor=black" alt="Machine Learning Specialization" />
+  </a>
+  <a href="https://www.coursera.org/learn/data-science-foundations">
+    <img src="https://img.shields.io/badge/Data%20Science%20Foundations%20-%230070D6?style=for-the-badge&logo=coursera&logoColor=white" alt="Data Science Foundations Certificate" />
+  </a>
+</p>
 
 ---
 
