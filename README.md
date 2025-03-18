@@ -65,6 +65,11 @@
 **🔍 Software Engineer Intern** | *Huawei Enterprise Northern Africa*  
 - 📌 Currently interning at **Huawei**, gaining hands-on experience in **Mobile Money solutions** architecture, implementation, and testing. Working on a project to migrate Orange's Mobile Money system to Huawei's **HMM solution**, involving **Huawei’s GaussDB database**, **cloud infrastructure**, and **network elements**.  
 
+**🔍 Machine Learning Engineer Intern** | *Centre de Ressources et d'Expertise (CRE)*  
+- 📌 Designed and implemented a **Natural Language Processing (NLP)** system in **Python** to analyze and categorize complaints related to the **Enterprise Resource Planning (ERP)** system used by the **Ecole Supérieure Polytechnique (ESP)**.  
+
+- 🌐 [Visit CRE Website](https://cre-esp.net/)
+
 ---
 
 ## 🚀 **Latest Projects**
